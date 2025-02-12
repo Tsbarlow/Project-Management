@@ -27,4 +27,5 @@ Yu Xia
 Kelly Tran   
 Yu Xia     
 Rachel Chong      
+Tavi Barlow
 >>>>>>> main
